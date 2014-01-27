@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.container{
+	height: 18rem;
+	width: 18rem;
+	color: #ffffff;
+	box-shadow: 4px 4px 2px #C1CACE;
+	border: 1px solid #C1CACE;
+	margin-top: 5rem;
+}
+
+.image{
+	margin:4.3rem;
+	margin-top: 3rem;
+}
+
+p{
+	color:#000000;
+	text-align: center;
+	margin: 1rem;
+}/* CSS Document */
+
+.container2{
+	height:25rem;
+	width:25rem;
+	color: #ffffff;
+	box-shadow: 4px 4px 2px #C1CACE;
+	border: 1px solid #C1CACE;
+	margin-top: 5rem;
+}
+
+.image2{
+	margin:4.7rem;
+	margin-top: 3rem;
+}
