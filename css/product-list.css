@@ -1,22 +1,23 @@
 @charset "UTF-8";
 /* CSS Document */
-
-.container{
-	height: 36rem;
-	width: 36rem;
-	color: #ffffff;
-	box-shadow: 4px 4px 2px #C1CACE;
-	border: 1px solid #C1CACE;
-	margin-top: 5rem;
+html {
+	font-family: 'Roboto', sans-serif; /* 16px/24px*/
 }
 
-.image{
-	margin:7rem;
-	margin-top: 6rem;
+.box {
+	position: relative;
+	color: #fff;
+	box-shadow: 5px 5px 2.5px #D5D4D4;
+	border: 1px solid #D5D4D4;
+	height: 30rem;
+	width: 30rem;
+	margin: 8rem;
+	}
+	
+.image {  
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2rem;
 }
 
-p{
-	color:#000000;
-	text-align: center;
-	margin: 1rem;
-}
